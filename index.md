@@ -1,5 +1,6 @@
 # Projects
 
+* [Donaly Trump political rally speech generator using Open AI's GPT-2.](https://addadda023.github.io/DJT-speech-generator/)
 * [Reddit Comment Generator using a finetuned GPT-2 being served from Google Cloud.](https://addadda023.github.io/GPT-2-text-generation/)
 * [All notebooks from Andrew Ng's Deeplearning.ai course.](https://github.com/addadda023/Deeplearning.ai)
 * [All Donald Trump's political rally speech transcripts since Oct 2015. Scraped from Factbase.](https://github.com/addadda023/Factbase-scraping)
