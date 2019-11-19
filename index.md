@@ -1,16 +1,16 @@
 # Projects
 
-* [Donald Trump political rally speech generator using Open AI's GPT-2.](https://addadda023.github.io/DJT-speech-generator/)
+* Donald Trump political rally speech generator using Open AI's GPT-2.
+  * [Website.](https://addadda023.github.io/DJT-speech-generator/) Finetuned GPT-2 model is hosted in Google Cloud Run via a docker container and speech is generated in real time.
+  * [Repo.](https://github.com/addadda023/DJT-speech-generator)
   
-  The Tensorflow GPT-2 model is served from Docker container hosted in Google Cloud Run. [Git](https://github.com/addadda023/DJT-speech-generator)
-  
-* [Donald Trump political rally speech generator served from pre-generated speeches.](https://composite-area-256123.appspot.com/) 
+* Donald Trump political rally speech generator served from pre-generated speeches.
+  * [Website.](https://composite-area-256123.appspot.com/) Batch generated speeches from GPT-2 were stored in Google Cloud SQL. Users are served with a randomly chosen speech. Speeches for training were scraped from Factbase.
+  * [Repo.](https://github.com/addadda023/DJT-speech-app-engine)
 
-  Batch generated speeches from GPT-2 were stored in Postgre and deployed in Google cloud. Front end is deployed in Flask and   bootstrap. Users are served with a random speech. Since the whole application is hosted in Gcloud, it's highly scalable,       reliable and maintainable. [Git](https://github.com/addadda023/DJT-speech-app-engine)
-
-* [Reddit Comment Generator using a finetuned GPT-2 being served from Google Cloud.](https://addadda023.github.io/GPT-2-text-generation/) 
-
-  The Tensorflow GPT-2 model is served from Docker container hosted in Google Cloud Run. [Git](https://github.com/addadda023/GPT-2-text-generation)
+* Reddit comment generator using Open AI's GPT-2.
+  * [Website.](https://addadda023.github.io/GPT-2-text-generation/)  Finetuned GPT-2 model is hosted in Google Cloud Run via a docker container and comments are generated in real time.
+  * [Repo](https://github.com/addadda023/GPT-2-text-generation)
   
 * [All notebooks from Andrew Ng's Deeplearning.ai course.](https://github.com/addadda023/Deeplearning.ai)
 
