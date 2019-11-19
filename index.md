@@ -10,7 +10,7 @@
 
 * ### Reddit comment generator using Open AI's GPT-2.
   * [Website.](https://addadda023.github.io/GPT-2-text-generation/)  Finetuned GPT-2 model is hosted in Google Cloud Run via a docker container and comments are generated in real time.
-  * [Repo](https://github.com/addadda023/GPT-2-text-generation)
+  * [Repo.](https://github.com/addadda023/GPT-2-text-generation)
   
 * ### [All notebooks from Andrew Ng's Deeplearning.ai course.](https://github.com/addadda023/Deeplearning.ai)
 
