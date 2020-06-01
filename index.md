@@ -5,8 +5,9 @@
   * [Repo.](https://github.com/addadda023/DJT-speech-generator)
   
 * ### Donald Trump political rally speech generator served from pre-generated speeches.
-  * [Website.](https://composite-area-256123.appspot.com/) Batch generated speeches from GPT-2 were stored in Google Cloud SQL. Users are served with a randomly chosen speech. Speeches for training were scraped from Factbase.
-  * [Repo.](https://github.com/addadda023/DJT-speech-app-engine)
+  * ~~[Website.](https://composite-area-256123.appspot.com/) Batch generated speeches from GPT-2 were stored in Google Cloud SQL. Users are served with a randomly chosen speech. Speeches for training were scraped from Factbase.~~
+  * Update: App has been moved to [Heroku.](https://gpt-djt-speech.herokuapp.com/) 
+  * [Repo.](https://github.com/addadda023/gpt-djt-speech-heroku)
 
 * ### Reddit comment generator using Open AI's GPT-2.
   * [Website.](https://addadda023.github.io/GPT-2-text-generation/)  Finetuned GPT-2 model is hosted in Google Cloud Run via a docker container and comments are generated in real time.
