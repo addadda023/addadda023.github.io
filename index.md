@@ -1,15 +1,11 @@
 # Projects
 
-* ### [Generate Trump Tweets](https://real-trump-tweets.herokuapp.com/) :) 
-* ### Donald Trump political rally speech generator using Open AI's GPT-2.
-  * [Website.](https://addadda023.github.io/DJT-speech-generator/) Finetuned GPT-2 model is hosted in Google Cloud Run via a docker container and speech is generated in real time.
-  * [Repo.](https://github.com/addadda023/DJT-speech-generator)
+* ### [Generate Trump Tweets using AI](https://real-trump-tweets.herokuapp.com/)
   
-* ### Donald Trump political rally speech generator served from pre-generated speeches.
+* ### [Generate Trump rally speech using AI](https://trump-speech.com/)
   * ~~[Website.](https://composite-area-256123.appspot.com/) Batch generated speeches from GPT-2 were stored in Google Cloud SQL. Users are served with a randomly chosen speech. Speeches for training were scraped from Factbase.~~
-  * Update: App has been moved to [Heroku.](https://gpt-djt-speech.herokuapp.com/) 
-  * [Repo.](https://github.com/addadda023/gpt-djt-speech-heroku)
+  * Update: [Standalone website ](https://trump-speech.com/) 
+  * [Repo](https://github.com/addadda023/gpt-djt-speech-heroku)
 
-* ### Reddit comment generator using Open AI's GPT-2.
-  * [Website.](https://addadda023.github.io/GPT-2-text-generation/)  Finetuned GPT-2 model is hosted in Google Cloud Run via a docker container and comments are generated in real time.
+* ### [Reddit comment generator using Open AI's GPT-2](https://addadda023.github.io/GPT-2-text-generation/)
   * [Repo.](https://github.com/addadda023/GPT-2-text-generation)
