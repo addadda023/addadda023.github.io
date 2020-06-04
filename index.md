@@ -1,5 +1,6 @@
 # Projects
 
+* ### [Generate Trump Tweets](https://real-trump-tweets.herokuapp.com/) :) 
 * ### Donald Trump political rally speech generator using Open AI's GPT-2.
   * [Website.](https://addadda023.github.io/DJT-speech-generator/) Finetuned GPT-2 model is hosted in Google Cloud Run via a docker container and speech is generated in real time.
   * [Repo.](https://github.com/addadda023/DJT-speech-generator)
