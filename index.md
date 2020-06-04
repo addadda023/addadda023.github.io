@@ -1,4 +1,3 @@
-# Projects
 
 * ### [Generate Trump Tweets using AI](https://real-trump-tweets.herokuapp.com/)
   
