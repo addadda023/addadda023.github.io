@@ -4,7 +4,7 @@
 * ### [Various NLP utilities](http://nlp-tools.herokuapp.com/)
 
 * ### [Generate Trump rally speech using AI](https://trump-speech.com/)
-  * ~~[Website.](https://composite-area-256123.appspot.com/) Batch generated speeches from GPT-2 were stored in Google Cloud SQL. Users are served with a randomly chosen speech. Speeches for training were scraped from Factbase.~~
+  * ~~[Website.](https://composite-area-256123.appspot.com/) Batch generated speeches from GPT-2 are served from Google Cloud SQL.~~
   * Update: [Standalone website ](https://trump-speech.com/) 
   * [Repo](https://github.com/addadda023/gpt-djt-speech-heroku)
 
