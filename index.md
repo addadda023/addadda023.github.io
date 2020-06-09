@@ -6,7 +6,7 @@
   * CD: Automatic deploy via Github
 
 * ### [Generate Trump rally speech using AI](https://trump-speech.com/)
-  * ~~[Website.](https://composite-area-256123.appspot.com/) Batch generated speeches from GPT-2 are served from Google Cloud SQL.~~
+  * ~~[Website.](https://composite-area-256123.appspot.com/)~~
   * Update: [Standalone website ](https://trump-speech.com/) 
   * [Repo](https://github.com/addadda023/gpt-djt-speech-heroku)
 
