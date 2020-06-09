@@ -2,6 +2,8 @@
 * ### [Generate Trump Tweets using AI](https://real-trump-tweets.herokuapp.com/)
 
 * ### [Various NLP utilities](http://nlp-tools.herokuapp.com/)
+  * CI: Github Python CI workflow
+  * CD: Automatic deploy via Github
 
 * ### [Generate Trump rally speech using AI](https://trump-speech.com/)
   * ~~[Website.](https://composite-area-256123.appspot.com/) Batch generated speeches from GPT-2 are served from Google Cloud SQL.~~
