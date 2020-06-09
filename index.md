@@ -1,5 +1,5 @@
 
-* ### [Generate Trump Tweets using AI](https://real-trump-tweets.herokuapp.com/)
+* ### [Generate Trump Tweets using AI](http://www.realtrumptweet.com/)
 
 * ### [Various NLP utilities](http://nlp-tools.herokuapp.com/)
   * CI: Github Python CI workflow
