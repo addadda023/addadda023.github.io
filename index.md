@@ -9,4 +9,3 @@
 * ### [Generate Trump rally speech using AI](https://trump-speech.com/)
 
 * ### [Reddit comment generator using Open AI's GPT-2](https://addadda023.github.io/GPT-2-text-generation/)
-  * [Repo](https://github.com/addadda023/GPT-2-text-generation)
