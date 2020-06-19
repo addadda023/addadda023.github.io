@@ -7,8 +7,6 @@
   * Text summarization
 
 * ### [Generate Trump rally speech using AI](https://trump-speech.com/)
-  * Update: [Standalone website ](https://trump-speech.com/) 
-  * [Repo](https://github.com/addadda023/gpt-djt-speech-heroku)
 
 * ### [Reddit comment generator using Open AI's GPT-2](https://addadda023.github.io/GPT-2-text-generation/)
   * [Repo](https://github.com/addadda023/GPT-2-text-generation)
