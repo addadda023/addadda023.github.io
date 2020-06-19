@@ -1,10 +1,12 @@
 
 * ### [Generate Trump Tweets using AI](http://www.realtrumptweet.com/)
 
-* ### [Various NLP utilities](http://nlp-tools.herokuapp.com/)
+* ### [Various NLP utilities](http://basicnlptools.com/)
+  * Sentiment analysis
+  * OCR 
+  * Text summarization
 
 * ### [Generate Trump rally speech using AI](https://trump-speech.com/)
-  * ~~[Website.](https://composite-area-256123.appspot.com/)~~
   * Update: [Standalone website ](https://trump-speech.com/) 
   * [Repo](https://github.com/addadda023/gpt-djt-speech-heroku)
 
